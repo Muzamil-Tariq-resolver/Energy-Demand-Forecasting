@@ -124,7 +124,3 @@ The project includes an interactive **Tableau dashboard** showing:
 - Building-wise comparison
 
 ---
-
-## 🚀 How to Run the Project
-
-### 1️⃣ Clone the Repository
